@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\LAPTRINHJAVA\springProject\DownLoad\d5_BT\AC_news\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3266189230.index
+3090211762.index
+1171573998.index
+903742893.index
+2939663312.index
+2893019659.index
